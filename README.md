@@ -1,6 +1,3 @@
-# Silentis-Quantum-Core
-Silentis Quantum Core
-
 # Silentis AI - Silentis Quantum Core
 
 **Developed by: Silentis Team | Version 1.0**
